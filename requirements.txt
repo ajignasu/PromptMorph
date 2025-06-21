@@ -1,0 +1,10 @@
+gradio>=3.50.2
+replicate
+python-dotenv
+numpy
+Pillow
+torch
+gsplat
+plyfile
+imageio[ffmpeg]
+requests 
